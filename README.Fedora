@@ -1,0 +1,8 @@
+Due to fedora policy and the apparent inability of the current version of
+glibc to compile a true static binary, the dar-static package/binaries have
+not been built or included with this package.  If you would like to build
+static binaries, you can download the source RPM file from the Fedora Extras
+repository and recompile it with "--with static" to enable the static binary
+and library files.
+
+-Chris Petersen, Fedora package maintainer, 2006-11-14

@@ -13,7 +13,7 @@
 # Basic descriptive tags for this package:
 #
 Name:           dar
-Version:        2.5.2
+Version:        2.5.5
 Release:        1%{?dist}
 Summary:        Software for making/restoring incremental CD/DVD backups
 
